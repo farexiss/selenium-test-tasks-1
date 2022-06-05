@@ -47,7 +47,7 @@ public class Test4 {
             throw new RuntimeException(e);
         } finally {
             if (success) {
-                System.out.println("Test 3 success.");
+                System.out.println("Test 4 success.");
             }
             driver.quit();
         }
